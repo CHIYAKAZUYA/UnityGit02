@@ -1,0 +1,7 @@
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
